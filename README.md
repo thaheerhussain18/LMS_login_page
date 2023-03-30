@@ -1,3 +1,4 @@
 # LMS_login_page
-frontend login page 
-responsive LMS login Page , with validating username and password 
+frontend responsive LMS login Page , with validating username and password 
+
+![LMS Page](https://github.com/thaheerhussain18/LMS_login_page/img.png)
